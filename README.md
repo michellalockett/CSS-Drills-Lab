@@ -2,7 +2,6 @@
 
 Objective
 Let's practice using the fundamentals of CSS!
-
 Setup
 Create a new project folder and connect it to a github repository. Copy the text from this README.md file into it.
 Create an index.html file and a styles.css file.
